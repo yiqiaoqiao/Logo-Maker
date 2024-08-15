@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LogoMaker"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\opt\;CMake Files\..\..\..\..\..\opt\homebrew\;CMake Files\..\..\..\..\..\opt\homebrew\lib\;CMake Files\..\..\..\..\..\opt\homebrew\lib\cmake\;CMake Files\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogoMaker">
+				<Option output="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug/LogoMaker" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogoMaker"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LogoMaker/fast">
+				<Option output="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug/LogoMaker" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 LogoMaker/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yiqiaoqiao/Desktop/CS\ 8/LogoMaker/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Box.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Box.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ColorGradient.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ColorGradient.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ColorList.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ColorList.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ColorPicker.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ColorPicker.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ColorSquare.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ColorSquare.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/EventHandler.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/FileItem.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/FileItem.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/FileNode.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/FileNode.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/FileTree.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/FileTree.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Font.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Font.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/FontList.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/FontList.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/GUIComponents.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/History.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/History.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/HistoryNode.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Icon.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Icon.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Image.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Image.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/InputBox.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/InputBox.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Item.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Item.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ItemList.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ItemList.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/KeyShortcuts.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/KeyShortcuts.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Letter.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Letter.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/LinkedList.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/LinkedList.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/LogoMaker.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/LogoMaker.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Menu.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Menu.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/MenuBar.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/MenuBar.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/MouseEvents.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/MouseEvents.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/MultiText.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/MultiText.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Node_iterator.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Node_iterator.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/ObjectStates.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Panel.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Panel.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Slider.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Slider.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/SliderList.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/SliderList.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Snapshot.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Snapshot.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/SnapshotInterface.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/States.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/States.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Text.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Text.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/TextInput.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/TextInput.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/TextInputInfo.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Texture.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Texture.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Window.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/Window.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/main.cpp">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/node.h">
+			<Option target="LogoMaker"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/../../../../../opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/../../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/../../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/../../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/../../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

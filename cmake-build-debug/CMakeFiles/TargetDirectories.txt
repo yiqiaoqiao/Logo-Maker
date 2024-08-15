@@ -1,0 +1,3 @@
+/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yiqiaoqiao/Desktop/CS 8/LogoMaker/cmake-build-debug/CMakeFiles/LogoMaker.dir
